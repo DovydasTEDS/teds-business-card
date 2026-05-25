@@ -1098,7 +1098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "easyeda2kicad:C0603"
 			(at 87.63 98.0948 0)
 			(effects
 				(font
