@@ -1,0 +1,17 @@
+(kicad_symbol_lib (version 20240108) (generator "ProNFCAntennaDesigner")
+  (symbol "NFC_60x49_N3_NXP_NTAG_I2C_Plus_NT3H2111" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "ANT1" (at -5.08 7.62 0) (effects (font (size 1.27 1.27))))
+    (property "Value" "13.56MHz_NFC_Antenna_Square" (at -5.08 5.715 0) (effects (font (size 1.27 1.27))))
+    (property "Footprint" "NFC_60x49_N3_NXP_NTAG_I2C_Plus_NT3H2111" (at 0 -5.715 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Datasheet" "" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "ki_description" "NFC Square Antenna" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (symbol "NFC_60x49_N3_NXP_NTAG_I2C_Plus_NT3H2111_0_1"
+      (rectangle (start -6.08 5.15) (end 6.08 -5.15) (stroke (width 0.254)) (fill (type none)))
+      (polyline (pts (xy -5.005 4.074) (xy 5.005 4.074) (xy 5.005 -4.074) (xy -5.005 -4.074) (xy -5.005 2.967) (xy 3.899 2.967) (xy 3.899 -2.967) (xy -3.899 -2.967) (xy -3.899 1.861) (xy 2.792 1.861) (xy 2.792 -1.861) (xy -2.792 -1.861) (xy -2.792 1.861)) (stroke (width 0.15)) (fill (type none)))
+    )
+    (symbol "NFC_60x49_N3_NXP_NTAG_I2C_Plus_NT3H2111_1_1"
+      (pin passive line (at -7.62 2.54 0) (length 2.54) (name "T1" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+      (pin passive line (at -7.62 -2.54 0) (length 2.54) (name "T2" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+    )
+  )
+)

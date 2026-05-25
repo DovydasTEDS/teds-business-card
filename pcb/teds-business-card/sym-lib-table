@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/libs/easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "nfcantenna")(type "KiCad")(uri "${KIPRJMOD}/libs/NFC_60x49_N3_NXP_NTAG_I2C_Plus_NT3H2111.kicad_sym")(options "")(descr ""))
+)
