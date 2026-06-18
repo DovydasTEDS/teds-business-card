@@ -8,5 +8,15 @@ it also has a qr code
 ![image](img/3.png)
 ![image](img/4.png)
 
-Bill of materials:  
-- PCBA from JLCPCB: $26.53 ($19.77 + $6.76 shipping)
+Bill of materials (2x PCBA JLCPCB):  
+- PCBA from JLCPCB: $23.78 ($17.07 + $6.76 shipping)
+  
+|Item|LCSC Part                    |Price per Unit|No.                                          |Total Price|Description                                  |
+|----|-----------------------------|--------------|---------------------------------------------|-----------|---------------------------------------------|
+|    |C21120                       |$0.02         |1                                            |$0.02      |Ceramic Capacitor                            |
+|    |C34499                       |$0.04         |1                                            |$0.04      |White LED                                    |
+|    |C23182                       |$0.00         |1                                            |$0.00      |47 Ohm Resistor                              |
+|    |C710403                      |$1.44         |1                                            |$1.44      |NFC Chip                                     |
+|PCB |                             |$1.00         |5                                            |$5.00      |PCB (5x for $2)                              |
+|Shipping|                             |$6.71         |1                                            |$6.71      |Global Direct Standard Line JLCPCB           |
+|    |Total                        |              |                                             |$13.21     |Total will not be accurate due to PCBA costs=|
